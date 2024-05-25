@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "66505c8bb004161fa3593ad2"
+  },
+  "name": "liner",
+  "price": 800,
+  "image": "1716542603005-34092340-slider img3.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66506c4c3fbeb02bfd813385"
+  },
+  "name": "Huda Beauty Faux Filter Foundation - Toasted Coconut 240N",
+  "price": 3000,
+  "image": "1716546635829-180586148-huda-beauty_toasted-coconut-240n_001_product_d03fb519-85fb-4bf5-96d7-77bb546dedfd_1200x1200 (1).webp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66506cc13fbeb02bfd813389"
+  },
+  "name": "Emelie Lipgloss",
+  "price": 1600,
+  "image": "1716546753032-266228070-Designlipgloss2.webp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66506d103fbeb02bfd81338d"
+  },
+  "name": "FV Waterproof Liquid Foundation",
+  "price": 2500,
+  "image": "1716546832421-624490852-714i2uXXIZL.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66506d623fbeb02bfd813391"
+  },
+  "name": "Estelin New Vitamin C & Turmeric Brightening Soap",
+  "price": 1100,
+  "image": "1716546914119-544701614-6faff17979b9cffc5af75eccaf35d9cf.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66506dce3fbeb02bfd813395"
+  },
+  "name": "Estelin Black Charcoal & 24K Gold Soap",
+  "price": 1150,
+  "image": "1716547022208-181215910-estelin-multipurpose-skin-care-soap-100g-dr-rashel-official-8.webp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66506e1d3fbeb02bfd813399"
+  },
+  "name": "Jessica Vitamin C Facial Kit",
+  "price": 4500,
+  "image": "1716547101451-574278857-f8cef523e1ad2d64b02c3fe891e88d95.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66506e6f3fbeb02bfd81339d"
+  },
+  "name": "Nars Lipstick",
+  "price": 1800,
+  "image": "1716547183618-571038268-07ab7833b6c043aa3264cab69b7dcce0b4-lipstick-29.rsquare.w600.webp",
+  "__v": 0
+}]
